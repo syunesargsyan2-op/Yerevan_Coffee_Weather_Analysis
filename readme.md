@@ -16,7 +16,7 @@ How temperature, rain, and the day of the week affect coffee consumption and cof
 ```bash
 pip install pandas numpy seaborn matplotlib
 python data.py
-python analysis.py
+python analysis1.py
 ```
 
 ## Main Results
